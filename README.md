@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tharunbheemanadula
-- 👀 I’m interested in Full Stack Development,BlockChain
+- 👀 I’m interested in Machine learning,Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Full stack Developer
 - 📫 How to reach me ...
