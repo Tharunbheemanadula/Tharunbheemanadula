@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tharunbheemanadula
 - 👀 I’m interested in Machine learning,Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Full stack Developer
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me ...
 
 <!---
